@@ -94,7 +94,7 @@ clf.fit(X_train, y_train)
 
 
 -Construct at least one Deep Learning approach to make the same prediction.
-#????????? this is not something I have experience with unfortunately.
+
 
 -Compare performance of all predictions 
 
